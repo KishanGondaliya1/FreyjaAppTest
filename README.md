@@ -87,7 +87,7 @@ To install required packages (Make sure you select ‘React Native CLI Quickstar
 ‘Expo CLI Quickstart’ && Development OS as per your requirement)
 
 * #### Install Git
-   Make sure there is installed Git in your envirement
+   Make sure there is installed Git in your environment
 
 
 ## Getting started
@@ -100,7 +100,7 @@ git clone
 ```
 
 * ### Install dependencies
-First of all please go to project’s path on root folder in terminal window. And based on your setup run bellow command .
+First of all please go to project’s path on root folder in terminal window. And based on your setup run Below command .
      
     1) Using Yarn 
     
@@ -115,7 +115,7 @@ First of all please go to project’s path on root folder in terminal window. An
     cd [Project path / root directory]
     npm install
     ```
-For ios only follow the bellow commands to install pod
+For ios only follow the Below commands to install pod
 ```
 cd ios
 pod install
@@ -128,15 +128,15 @@ npx react-native start
 
 
 ## Build and run the project
-  For build and run follow bellow link
+  For build and run follow Below link
   * https://reactnative.dev/docs/environment-setup?platform=android
   * https://reactnative.dev/docs/environment-setup?platform=ios
 
-To run in ios - Use bellow command Or We can run application on Xcode - from IOS folder and by opening .xcworkspace file
+To run in ios - Use Below command Or We can run application on Xcode - from IOS folder and by opening .xcworkspace file
 ```
 npx react-native run-ios
 ```
-To run in Android - Use bellow command Or We can run application on Android Studio
+To run in Android - Use Below command Or We can run application on Android Studio
 ```
 npx react-native run-android
 ```
